@@ -21,7 +21,7 @@
 <ul>pip install -r requirements.txt</ul>
 <b>Required Libraries</b>
 <ol type = "1">
-<li>>numpy</li>
+<li>numpy</li>
 <li>pandas</li>
 <li>scikit-learn</li>
 <li>matplotlib</li>
