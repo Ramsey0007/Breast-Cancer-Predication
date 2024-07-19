@@ -26,6 +26,7 @@
 <li>scikit-learn</li>
 <li>matplotlib</li>
 <li>seaborn</li>
+</ol>
 <h2>Dataset</h2>
 <p>The dataset used for this project is the Breast Cancer Wisconsin (Diagnostic) Dataset available in scikit-learn. 
   It includes 30 features computed from a digitized image of a fine needle aspirate (FNA) of a breast mass, describing characteristics of the cell nuclei present in the image.</p>
