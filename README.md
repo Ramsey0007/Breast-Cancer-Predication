@@ -17,7 +17,7 @@
 <h3>Installation</h3>
 <b>Prerequisites</b>
 <p>Ensure you have Python 3.7 or above installed. The required libraries can be installed using the following command:</p>
-<ul>bash Copy code</ul>
+
 <ul>pip install -r requirements.txt</ul>
 <b>Required Libraries</b>
 <ol type = "1">
@@ -33,7 +33,7 @@
 
 <b>Loading the Dataset</b>
 <ul>The dataset can be loaded directly from scikit-learn:</ul>
-<ul>python copy code</ul>
+
 <ul>from sklearn.datasets import load_breast_cancer</ul>
 <ul>data = load_breast_cancer()</ul>
 </ol>
@@ -41,15 +41,15 @@
 
 <li><b><i>Data Preprocessing</i></b></li>
 <ul>Run the data preprocessing script to clean and prepare the dataset.</ul>
-<ul>bash Copy code</ul>
+
 <ul>python src/data_preprocessing.py</ul>
 <li><b><i>Training Models</i></b></li>
 <ul>Train the Machine Learning models:</ul>
-<ul>bash Copy code</ul>
+
 <ul>python src/ml_models.py</ul>
 <li><b><i>Evaluation</i></b></li>
 <ul>Evaluate the performance of the models:</ul>
-<ul>bash Copy code</ul>
+
 <ul>python src/evaluation.py</ul>
 
 <h2>Models Implemented</h2>
